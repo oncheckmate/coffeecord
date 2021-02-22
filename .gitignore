@@ -1,0 +1,17 @@
+.env
+.idea
+*.iml
+target/
+.classpath
+.project
+.settings
+.vscode
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar

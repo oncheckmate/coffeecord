@@ -1,0 +1,37 @@
+CoffeeCord Discord Bot
+
+    Checkmate
+    @OnCheckmate
+
+[Checkmate](https://github.com/oncheckmate)
+
+[Checkmate Server](https://discord.gg/pqJfwrPEHt)
+    
+[CoffeeCord](https://discord.com/api/oauth2/authorize?client_id=813194673492590644&permissions=8&scope=bot)
+
+[CoffeeCord Server](https://discord.gg/pqJfwrPEHt)
+
+commands:
+
+    Superuser:
+        Utilities:
+            server [ip]
+            shutdown
+    Admin:
+         ban [@user] [optional reason]
+         unban [userId]
+         kick [@user] [optional reason]
+         mute [@User] [Optional reason]
+         unmute [@User]
+         automod [mod] [option](on/off)
+            
+    Utilities:
+        help, help [COMMAND]
+        ping
+        info [bot/checkmate]
+        invite [server/bot]
+        haste [FileId/MessageId/MarkDownText]
+        
+    Text:
+        Hashing:
+            md5 [text]
